@@ -108,6 +108,11 @@ static NSString *const cellID = @"CollectionViewCell";
             
             break;
             
+            
+            
+            
+            
+            
         case UIGestureRecognizerStateEnded: {
             
             if (!_isChange) {
